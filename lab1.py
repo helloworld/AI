@@ -1,5 +1,16 @@
 from string import ascii_lowercase
 
+'''
+                        +======================+
+                        |  Sashank Thupukari   |      
+                        |  Period 6            |
+                        |  Lab 2               |
+                        |  9/5/2014            |
+                        +======================+
+
+      Objective: Find the neighbors of a word.   
+'''
+
 fileName = "words.txt"
 file1 = open (fileName, 'r')
 target = input("Enter target String: ")
